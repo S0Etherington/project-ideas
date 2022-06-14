@@ -1,0 +1,20 @@
+Requirements: Front end, back end, data base, 3-5 interactive features
+
+Interests: 
+video games
+drawing
+reading
+comics
+music
+dnd
+
+1: DND generator
+can generate random encounters for a party based on level and party size
+can generate loot
+can generate npcs for different senerios
+
+2: Basic battle card game (pokemon, mtg, yu-gi-oh)
+User can chose 3 cards for their team, and then they battle the computer generated team
+User can view the different card options and build an ideal team
+
+
